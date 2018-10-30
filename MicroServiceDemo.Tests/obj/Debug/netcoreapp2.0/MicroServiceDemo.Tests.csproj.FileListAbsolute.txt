@@ -1,0 +1,17 @@
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\obj\Debug\netcoreapp2.0\MicroServiceDemo.Tests.csprojResolveAssemblyReference.cache
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\obj\Debug\netcoreapp2.0\MicroServiceDemo.Tests.csproj.CoreCompileInputs.cache
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\obj\Debug\netcoreapp2.0\MicroServiceDemo.Tests.AssemblyInfoInputs.cache
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\obj\Debug\netcoreapp2.0\MicroServiceDemo.Tests.AssemblyInfo.cs
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\bin\Debug\netcoreapp2.0\MicroServiceDemo.Tests.deps.json
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\bin\Debug\netcoreapp2.0\MicroServiceDemo.Tests.runtimeconfig.json
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\bin\Debug\netcoreapp2.0\MicroServiceDemo.Tests.runtimeconfig.dev.json
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\bin\Debug\netcoreapp2.0\MicroServiceDemo.Tests.dll
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\bin\Debug\netcoreapp2.0\MicroServiceDemo.Tests.pdb
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\obj\Debug\netcoreapp2.0\MicroServiceDemo.Tests.dll
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\obj\Debug\netcoreapp2.0\MicroServiceDemo.Tests.pdb
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\bin\Debug\netcoreapp2.0\MicroServiceDemo.Core.dll
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\bin\Debug\netcoreapp2.0\MicroServiceDemo.Core.pdb
+F:\下载\MicroServiceDemo\MicroServiceDemo.Tests\obj\Debug\netcoreapp2.0\MicroServiceDemo.Tests.csproj.CopyComplete

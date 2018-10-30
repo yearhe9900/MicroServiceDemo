@@ -1,0 +1,15 @@
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\obj\Debug\netcoreapp2.0\MicroServiceDemo.Service.csprojResolveAssemblyReference.cache
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\obj\Debug\netcoreapp2.0\MicroServiceDemo.Service.csproj.CoreCompileInputs.cache
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\obj\Debug\netcoreapp2.0\MicroServiceDemo.Service.AssemblyInfoInputs.cache
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\obj\Debug\netcoreapp2.0\MicroServiceDemo.Service.AssemblyInfo.cs
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\bin\Debug\netcoreapp2.0\Config\appsettings.json
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\bin\Debug\netcoreapp2.0\MicroServiceDemo.Service.deps.json
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\bin\Debug\netcoreapp2.0\MicroServiceDemo.Service.runtimeconfig.json
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\bin\Debug\netcoreapp2.0\MicroServiceDemo.Service.runtimeconfig.dev.json
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\bin\Debug\netcoreapp2.0\MicroServiceDemo.Service.dll
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\bin\Debug\netcoreapp2.0\MicroServiceDemo.Service.pdb
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\bin\Debug\netcoreapp2.0\MicroServiceDemo.Core.dll
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\bin\Debug\netcoreapp2.0\MicroServiceDemo.Core.pdb
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\obj\Debug\netcoreapp2.0\MicroServiceDemo.Service.csproj.CopyComplete
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\obj\Debug\netcoreapp2.0\MicroServiceDemo.Service.dll
+F:\下载\MicroServiceDemo\MicroServiceDemo.Service\obj\Debug\netcoreapp2.0\MicroServiceDemo.Service.pdb

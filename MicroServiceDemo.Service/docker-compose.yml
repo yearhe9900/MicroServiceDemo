@@ -1,0 +1,17 @@
+﻿version: '3'
+
+services:
+  app:
+    image: hub.mingdao.com/md/calendaralertservice:0.0.1
+    deploy:
+      replicas: 1
+      update_config:
+        parallelism: 1
+        delay: 5s
+      placement:
+        constraints:
+          - node.labels.node_234 == 1
+    volumes:
+      - /usr/local/docker/md-calendaralertservice/config:/app/Config
+    ports:
+      - "9991:9991"
